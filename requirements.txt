@@ -1,0 +1,6 @@
+pandas==3.0.3
+numpy==2.0.2
+scikit-learn==1.8.0
+xgboost==3.2.0
+lightgbm==4.6.0
+kaggle>=2.2.0

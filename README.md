@@ -64,7 +64,7 @@ Vezi `solve.py`. Submission: `submission.csv` (public LB 0.76315).
 ## Rulare
 
 ```bash
-pip install pandas scikit-learn xgboost lightgbm
+pip install -r requirements.txt
 python3 solve.py        # soluția câștigătoare (v1)
 ```
 
